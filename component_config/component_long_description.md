@@ -1,0 +1,1 @@
+generates component code based off of user input

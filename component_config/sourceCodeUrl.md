@@ -1,0 +1,1 @@
+https://github.com/MVBUPP/kds-team.wr-componentgenerator.git
